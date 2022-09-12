@@ -176,8 +176,8 @@ $NewVMTask = Invoke-RestMethod -SkipCertificateCheck -Method Patch -Uri https://
 $metaData = @"
 dsmode: local
 # network-interfaces: |
-#   auto ens3
-#   iface ens3 inet loopback
+#   auto lo
+#   iface lo inet loopback
 
 #   iface ens3 inet static
 #     address 192.168.1.200
