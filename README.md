@@ -6,3 +6,5 @@ These scripts are only examples and demonstrate common use cases with the API.
 Refer to the API docs on a scale system for a detailed guide on available calls.
 
 Refer to this repository's tags for examples tied to a specific Scale release.
+
+REST API Docs online - https://ddemlow.github.io/RestAPIExamples/
